@@ -7,14 +7,14 @@ Los usuarios deberían poder:
 
 ### Captura de pantalla
 
-![](capturas/Captura%20de%20pantalla%202023-09-28%20175156.png)
-![](capturas/Captura%20de%20pantalla%202023-10-02%20125225.png)
-![](capturas/Captura%20de%20pantalla%202023-10-02%20125237.png)
-![](capturas/Captura%20de%20pantalla%202023-10-02%20125301.png)
-![](capturas/Captura%20de%20pantalla%202023-10-02%20125436.png)
-![](capturas/Captura%20de%20pantalla%202023-10-02%20125453.png)
-![](capturas/Captura%20de%20pantalla%202023-10-02%20125519.png)
-![](capturas/Captura%20de%20pantalla%202023-10-02%20125745.png)
+![](Capturas/Captura%20de%20pantalla%202023-09-28%20175156.png)
+![](Capturas/Captura%20de%20pantalla%202023-10-02%20125225.png)
+![](Capturas/Captura%20de%20pantalla%202023-10-02%20125237.png)
+![](Capturas/Captura%20de%20pantalla%202023-10-02%20125301.png)
+![](Capturas/Captura%20de%20pantalla%202023-10-02%20125436.png)
+![](Capturas/Captura%20de%20pantalla%202023-10-02%20125453.png)
+![](Capturas/Captura%20de%20pantalla%202023-10-02%20125519.png)
+![](Capturas/Captura%20de%20pantalla%202023-10-02%20125745.png)
 
 
 ### Links
